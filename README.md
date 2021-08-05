@@ -7,7 +7,7 @@ FrontEnd - XML(Relative Layout)
 
 Backend - Kotlin 
 
-#  Important concepts used :-
+# Concepts used :-
 
 Implementing SeekBar in Layout file
 
