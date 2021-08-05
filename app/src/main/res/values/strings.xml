@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="_0_11">0:11</string>
+    <string name="album_image">Album Image</string>>
+    <string name="_1_11">-1:11</string>
+    <string name="playes_song">Playes Song</string>
+    <string name="decrease_volume">Decrease Volume</string>
+</resources>
