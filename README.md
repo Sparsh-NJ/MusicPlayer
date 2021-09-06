@@ -3,9 +3,7 @@
 
 Single activity Music Player for beginners.
 
-FrontEnd - XML(Relative Layout) 
-
-Backend - Kotlin 
+FrontEnd - XML(Relative Layout) , Kotlin 
 
 # Concepts used :-
 
